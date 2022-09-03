@@ -118,7 +118,7 @@ Berikut beberapa poin penting dari Intel Core i3:
 
 <img src="SOFTWARE.webp" style="width:70%"/><br><br>
 
-**Software** adalah data yang diprogram, disimpan, dan diformat secara digital dengan fungsi tertentu. Perangkat ini sendiri tidak memiliki bentuk fisik, Anda bisa mengoperasikannya lewat perangkat komputer. Untuk pembuatannya sendiri, perangkat ini memerlukan bahasa pemrograman yang ditulis oleh seorang pemrogram/orang yang ahli akan bidang tersebut. Selanjutnya, perangkat tersebut dikompilasikan memakai aplikasi kompiler agat dapat menjadi kode yang bisa dikenali oleh mesin _*hardware/ perangkat keras*_. Yang dimaksud hardware/perangkat keras disini adalah Personal Computer/komputer.
+**Software** adalah data yang diprogram, disimpan, dan diformat secara digital dengan fungsi tertentu. Perangkat ini sendiri tidak memiliki bentuk fisik, Anda bisa mengoperasikannya lewat perangkat komputer. Untuk pembuatannya sendiri, perangkat ini memerlukan bahasa pemrograman yang ditulis oleh seorang pemrogram/orang yang ahli akan bidang tersebut. Selanjutnya, perangkat tersebut dikompilasikan memakai aplikasi kompiler agat dapat menjadi kode yang bisa dikenali oleh mesin _*hardware/ perangkat keras*_. Yang dimaksud hardware/perangkat keras disini adalah _*Personal Computer*_.
 
 Beberapa fungsi utama dari software:
 1. Dasar kebutuhan komputer agar dapat dioperasikan dengan baik.
