@@ -154,10 +154,10 @@ Fungsi Hardware :
 - Mengolah informasi dan data
 
 Jenis-jenis Hardware :
-1. Hardware Output : Monitor, Printer, Speaker, dll.
-2. Hardware Input : Mouse, Keyboard, Scanner, dll. 
-3. Hardware Process : CPU, VGA, RAM, dll.
-4. Storage Device : Hard disk, Flash disk, Optical disk.
+1. **Hardware Output** : Monitor, Printer, Speaker, dll.
+2. **Hardware Input** : Mouse, Keyboard, Scanner, dll. 
+3. **Hardware Process** : CPU, VGA, RAM, dll.
+4. **Storage Device** : Hard disk, Flash disk, Optical disk.
 
 3 instruksi dasar untuk menjalankan Hardware :
 1. Instruksi dasar input, yaitu instruksi yang bisa memberikan informasi kepada perangkat lunak lainnya menggunakan perantara driver. Dalam hal ini perangkat lunak tersebut yaitu sistem operasi. Ini terjadi saat user menggunakan hardware, contohnya mengetik menggunakan keyboard atau mengklik dengan mouse.
@@ -283,7 +283,7 @@ George Boole kemudian mengembangkan untuk matematika biner. Ilmuwan Inggris ini 
 
 <br>
 
-<li>Komputer Generasi Ketiga (1965-1970)</li>
+- <b>Komputer Generasi Ketiga (1965-1970)</b>
 <br>
 
 <img src="KGKT_1.jpg" style="width:70%"/><br><br>
@@ -303,7 +303,7 @@ Ukuran fisik jauh lebih kecil sehingga penggunaan listrik lebih hemat.
 
 <br>
 
-<li>Komputer Generasi Keempat (dimulai dari tahun 1970)</li>
+- <b>Komputer Generasi Keempat (dimulai dari tahun 1970)</b>
 <br>
 
 <img src="KGK4_1.jpg" style="width:70%"/><br><br>
@@ -320,7 +320,7 @@ Ukuran fisik jauh lebih kecil sehingga penggunaan listrik lebih hemat.
 
 <br>
 
-<li>Komputer Generasi Kelima</li>
+- <b>Komputer Generasi Kelima</b>
 <br>
 
 <img src="KGKL_1.webp" style="width:70%"/><br><br>
